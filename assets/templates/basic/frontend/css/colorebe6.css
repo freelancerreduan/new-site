@@ -1,0 +1,99 @@
+
+.btn--base, .view-btn-list li.active .list-btn, .search-from button, .search-from input[type="button"], .search-from input[type="reset"], .search-from input[type="submit"], .btn--base.active:focus, .btn--base.active:hover, .custom-check-group input:checked + label::before, .slider-next, .slider-prev, .nav-tabs .nav-link.active, .item-review-widget-wrapper .left, .submit-btn, .reply-btn, .coupon-form .coupon-form-btn, .blog-thumb .blog-date, .blog-social-area .blog-social li:hover, .input-group-text, .category-item-content .title, .item-card .item-card-thumb .item-level, .ui-slider-range, .ui-state-default, .bg--base, .image-upload .thumb .avatar-edit label,.dashboard-sidebar-open, .dashboard-sidebar-close{
+    background: #2ecc71;
+    background: -webkit-linear-gradient(legacy-direction(to right),  #2ecc71 0%, #2ecc71 100%);
+    background: -webkit-gradient(linear, left top, right top, from( #2ecc71), to(#2ecc71));
+    background: -webkit-linear-gradient(left, #2ecc71 0%, #2ecc71 100%);
+    background: -o-linear-gradient(left, #2ecc71 0%, #2ecc71 100%);
+    background: linear-gradient(to right, #2ecc71 0%, #2ecc71 100%);
+}
+
+.view-btn-list li.active .list-btn, .btn--base.active:focus, .btn--base.active:hover, .item-details-footer .footer-social li a:hover, .item-details-footer .footer-social li a.active, .blog-social-area .blog-social li:hover{
+    border-color: #2ecc71;
+}
+
+.item-card-content-top .author-content .name .level-text, .item-card-content-top .right .item-amount, .item-card-footer .item-like i, .item-card-title a:hover, .category-list li:hover::before, .category-list li:hover, .header-bottom-area .navbar-collapse .main-menu li a:hover, .header-bottom-area .navbar-collapse .main-menu li a.active, .footer-links li:hover, .footer-links li:hover::before, .breadcrumb-item a, .breadcrumb-item.active::before, .blog-content-inner .title a:hover, .short-menu li:hover, .sidebar-main-menu li a:hover, .navbar-toggler span{
+    color: #2ecc71;
+}
+
+.text--base {
+    color: #2ecc71 !important;
+}
+
+
+.header-bottom-area .navbar-collapse .main-menu li a::after, .item-details-footer .item-like, .footer-social li a:hover, .footer-social li a.active, .subscribe-form button, .subscribe-form input[type="button"], .subscribe-form input[type="reset"], .subscribe-form input[type="submit"], .short-menu-open-btn, .short-menu-close-btn, *::-webkit-scrollbar-button, *::-webkit-scrollbar-thumb, .chosen-container .chosen-results li.highlighted, ::selection {
+    background-color: #2ecc71;
+}
+
+
+.nav-tabs .nav-link.active {
+    border-bottom: 1px solid #2ecc71;
+}
+
+
+.buy-btn {
+    border: 1px solid #2ecc71 !important;
+    color: #2ecc71 !important;
+}
+
+
+.date-btn {
+    border: 1px solid #2ecc71 !important;
+    color: #2ecc71 !important;
+}
+
+
+.contact-info-icon i {
+    background-color: #2ecc71;
+}
+
+
+.sidebar-main-menu li.open a {
+    background-color: rgba(255, 255, 255, 0.1);
+    color: #2ecc71;
+    border-left: 2px solid #2ecc71;
+}
+
+
+.pagination .page-item.active .page-link, .pagination .page-item:hover .page-link, .item-tags a:hover {
+    background: #2ecc71;
+    border-color: #2ecc71;
+    color: white;
+}
+
+
+.btn--base:focus, .btn--base:hover {
+  
+  box-shadow: 0 10px 20px #2ecc7140;
+}
+
+.ui-widget.ui-widget-content::after{
+    background-color: #2ecc7120;
+}
+
+.path {
+    stroke: #2ecc71;
+}
+
+@keyframes color {
+  0% {
+    stroke: #2ecc71;
+  }
+
+  100% {
+    stroke: #2ecc71;
+  }
+}
+
+
+.follow-btn a {
+    border: 1px solid #2ecc71 !important;
+    color: #2ecc71 !important;
+}
+
+
+@media only screen and (max-width: 991px){
+    .custom-table tbody tr td::before {
+        color: #2ecc71;
+    }
+}
